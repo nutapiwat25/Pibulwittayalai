@@ -3,7 +3,7 @@ const navbarHTML = `
     <div class="brand">
         <img src="รูป/New_PibulLogo2556.png" alt="โลโก้โรงเรียน" class="school-logo">
         <div class="school-name-wrapper">
-            <span class="en-name">Pibulwitthayalai School</span>
+            <span class="en-name">PIBULWITTHAYALAI SCHOOL</span>
             <span class="th-name">โรงเรียนพิบูลวิทยาลัย</span>
         </div>
     </div>
